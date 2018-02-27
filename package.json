@@ -1,7 +1,7 @@
 {
   "name": "rv-github-searcher",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A simple application to search Github's user basic information using Github API.",
   "author": "rakhaviantoni <rakha.rv@gmail.com>",
   "private": true,
   "scripts": {
