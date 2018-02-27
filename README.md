@@ -1,6 +1,6 @@
 # rv-github-searcher
 
-> A Vue.js project
+> A simple application to search Github's user basic information using Github API.
 
 ## Build Setup
 
