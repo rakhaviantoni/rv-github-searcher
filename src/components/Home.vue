@@ -50,7 +50,7 @@
         username: '',
         user: null,
         rules: [
-          v => !!v || 'Userame is required',
+          v => !!v || 'Username is required',
           v => (v && v.length > 2) || 'Username must be not less than 2 characters'
         ],
         loading: false
